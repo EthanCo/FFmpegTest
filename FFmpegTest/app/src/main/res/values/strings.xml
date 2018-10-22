@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FFmpegTest</string>
+    <string name="permission_neverask">neverask</string>
+    <string name="permission_denied">denied</string>
+    <string name="button_deny">拒绝</string>
+    <string name="button_allow">允许</string>
+    <string name="permission_rationale"><![CDATA[请求权限(*&^&*%%GKJDJF]]></string>
+</resources>
